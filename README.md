@@ -1,9 +1,10 @@
-(https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/372639078_10223730168350959_516866306445295610_n.png?stp=dst-png_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeFm8ntzFklKBYmwN2xAj9aRov3ET6U3S0ei_cRPpTdLR9a-mvO5nXqlz3MXp7FIYn4&_nc_ohc=6ehdZArL3KAAX_uHqCR&_nc_ht=scontent.fdac27-1.fna&oh=00_AfCooHzCVspqjqxACvyOnZgVmTtLHy2LjEKm24dqIHE0dw&oe=64F4B9D5)
+![Web Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/372639078_10223730168350959_516866306445295610_n.png?stp=dst-png_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeFm8ntzFklKBYmwN2xAj9aRov3ET6U3S0ei_cRPpTdLR9a-mvO5nXqlz3MXp7FIYn4&_nc_ohc=6ehdZArL3KAAX_uHqCR&_nc_ht=scontent.fdac27-1.fna&oh=00_AfCooHzCVspqjqxACvyOnZgVmTtLHy2LjEKm24dqIHE0dw&oe=64F4B9D5)
+
 ### Hi there 👋, I am Sadekur Rahman Talukdher
 #### Web Developer
-![Web Developer]
 
-Hi, I am Md Sadekur Rahman  and I work as a web developer. I am a software engineer who loves to create websites as well as apps for people. I think that people should look at the bigger picture when they are building something. I love to work in groups where everyone can voice their opinions and ideas
+
+Hi, I am Md Sadekur Rahman  and I work as a web developer. I am a software engineer who loves to create websites as well as apps for people. I think that people should look at the bigger picture when they are building something. I love to work in groups where everyone can voice their opinions and ideas.
 
 Skills: HTML5 / CSS3/ JS /Mysql/PHP/Git/Git-hub/PhotoShop/MCSA/MCSE
 
